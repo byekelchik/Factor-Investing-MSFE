@@ -5,3 +5,7 @@ dev/*
 .ipynb_checkpoints/*
 
 optimization/.ipynb_checkpoints/*
+optimization/returns/.ipynb_checkpoints/*
+
+optimization/.DS_Store
+.DS_Store
